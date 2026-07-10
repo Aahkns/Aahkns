@@ -31,6 +31,7 @@ I am a lazy stat post graduate currently navigating the world of graduate-level 
 Since I'm a statistician, here is a quantitative breakdown of my GitHub activity:
 
 ```mermaid
+%%{init: {'theme': 'forest'} }%%
 pie title My Coding Language Distribution (Self-Reported)
   "R (Data Wrangling)" : 20
   "Python (ML)" : 50
