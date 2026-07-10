@@ -31,15 +31,7 @@ I am a lazy stat post graduate currently navigating the world of graduate-level 
 Since I'm a statistician, here is a quantitative breakdown of my GitHub activity:
 
 ```mermaid
-%%{init: {'theme': 'base', 'themeVariables': {
-    'pie1': '#E74C3C',
-    'pie2': '#3498DB',
-    'pie3': '#2ECC71',
-    'pie4': '#F39C12',
-    'pieOuterStrokeWidth': '3px'
-}, 'pie': {'textPosition': 0.6}}}%%
-pie showData title My Coding Language Distribution
-    "R (Data Wrangling)" : 45
-    "Python (ML)" : 30
-    "Markdown (Doc)" : 15
-    "Bash" : 10
+pie title My Coding Language Distribution (Self-Reported)
+  "R (Data Wrangling)" : 25
+  "Python (ML)" : 60
+  "Markdown (Documentation)" : 15
