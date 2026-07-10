@@ -5,7 +5,7 @@ I'm a graduate student in Statistics with a passion for turning data into decisi
 ---
 
 ### 👨‍🔬 Who am I?
-I am a stats nerd currently navigating the world of graduate-level probability, inference, and machine learning at IIT Kanpur. I'm exploring real-world datasets to see if the theory actually holds up.
+I am a lazy stat post graduate currently navigating the world of graduate-level probability, inference, and machine learning at IIT Kanpur. I'm exploring real-world datasets to see if the theory actually holds up.
 
 **Fun fact:** I have a 95% confidence interval that I enjoy coffee more than the average person (p < 0.05).
 
